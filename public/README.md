@@ -1,3 +1,24 @@
+Number and name of feature: Feature #1: Refactor the CSS
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 10:20am
+
+Finish time: 12:05pm
+
+Actual time needed to complete: 1hr 45min
+
+Number and name of feature: Feature #2: Modify the contents
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
+
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
